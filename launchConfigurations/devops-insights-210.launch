@@ -1,0 +1,14 @@
+{
+  "ServiceId": "com.ibm.cloudoe.orion.client.deploy",
+  "Params": {
+    "Target": {
+      "Url": "https://api.eu-gb.cf.cloud.ibm.com",
+      "Org": "yashpendal18@gnu.ac.in",
+      "Space": "dev"
+    },
+    "Name": "devops-insights-210",
+    "Instrumentation": {}
+  },
+  "Path": "",
+  "Type": "Cloud Foundry"
+}
